@@ -1,4 +1,4 @@
-public class maxINArray {
+public class maxInArray {
     public static int searching(int n,int []arr,int x,int idx){
         //base case;
         if(idx == n)return x;
