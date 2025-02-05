@@ -19,7 +19,8 @@ public class StringMethods {
     public static void main(String[] args) {
         String s = "hello";
         String s1 = new String("Hello");
-        return checkEqual(s, s1);
+        boolean ans = checkEqual(s, s1);
+        System.out.println(ans);
         // System.out.println(s == s1);
         // System.out.println(s.equals(s1));
 
