@@ -31,5 +31,3 @@ public class sizeOfbinaryTree {
         return al.size();
     }
 }
-
-}
